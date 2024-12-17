@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an environmental social scientist and just finished a postdoc in the <a href="https://sanford-lab.github.io/">SPIRES Lab</a> at Yale School of the Environment.
+I am an environmental social scientist and former postdoc/current affiliate of the <a href="https://sanford-lab.github.io/">SPIRES Lab</a> at Yale School of the Environment.
 
 My research and activities are at the intersection of agriculture, ecosystem conservation, and livelihoods. I work closely with farmers, agriculture and forestry agencies, and NGOs and design projects to incorporate geospatial analysis, social and economic indicators, and fieldwork. Methods range from qualitative coding of surveys and texts to causal inference techniques including regression discontinuities and synthetic controls. Throughout my Ph.D. and postdoc, I've been studying the drivers and impacts of changes in land use and land cover, particularly in forested regions of the Caucasus and coastal Brazil. As an international development practitioner, I've focused mostly on improving the environmental and economic performance of livestock systems, particularly through crop & tree integration, grazing practices, animal nutrition & disease control, and managing wildlife conflicts. I also managed grants for the USAID Horticulture Innovation Lab at UC Davis. 
 
